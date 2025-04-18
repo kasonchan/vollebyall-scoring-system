@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor settings
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+
+# Mac system files
+*.DS_Store
+
+# VS Code settings
+*.code-workspace
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Build artifact for testing
+coverage/
+
+# Optional lock files depending on your package manager
+# Uncomment the ones you don’t use to avoid confusion:
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
