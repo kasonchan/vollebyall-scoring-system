@@ -1,2 +1,2 @@
-# volleyball-scoring-system
+# volleyball-scoring
 

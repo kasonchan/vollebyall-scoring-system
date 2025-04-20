@@ -2,7 +2,7 @@
   "name": "volleyball-scoring",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kasonchan.github.io/vollebyall-scoring-system",
+  "homepage": "https://kasonchan.github.io/volleyball-scoring",
   "type": "module",
   "scripts": {
     "dev": "vite",
